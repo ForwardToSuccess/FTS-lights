@@ -1,0 +1,17 @@
+.fts_lights img {
+	width: 100%;
+	height: inherit;
+}
+
+.fts_lights_item, .lSSlideOuter .lSGallery li {
+	float: none !important;
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+}
+.lSSlideOuter .lSGallery li {
+	opacity: 0.6;
+}
+.lSSlideOuter .lSPager.lSGallery li.active, .lSSlideOuter .lSPager.lSGallery li:hover {
+	opacity: 1;
+}

@@ -1,0 +1,9 @@
+name = FTS lights
+description = слайдер и всплывающее окно для поля<br />http://sachinchoolur.github.io/lightslider/ end http://sachinchoolur.github.io/lightGallery/
+package = FTS
+core = 7.x
+
+stylesheets[all][] = css/fts_lights.css
+scripts[] = js/fts_lights.js
+
+dependencies[] = libraries
